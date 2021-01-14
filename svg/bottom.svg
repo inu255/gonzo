@@ -1,0 +1,23 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 832 239.25">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: none;
+                stroke: #000;
+                stroke-miterlimit: 22.93;
+                stroke-width: 6px;
+                <!-- vector-effect: non-scaling-stroke; -->
+                stroke-dasharray: 30 18;
+            }
+        </style>
+    </defs>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="верхняя_плашка" data-name="верхняя плашка">
+            <rect y="192.25" width="30" height="13" />
+            <rect x="56" y="192.25" width="30" height="13" />
+            <rect x="36" y="158.25" width="14" height="28" />
+            <rect x="36" y="211.25" width="14" height="28" />
+            <path class="cls-1" d="M943,410.75V414c-262,2-524,1-786,3V569" transform="translate(-114 -410.75)" />
+        </g>
+    </g>
+</svg>

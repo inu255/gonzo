@@ -1,0 +1,32 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 867.81 238.88">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #fee600;
+            }
+            .cls-2 {
+                fill: none;
+                stroke: #000;
+                stroke-miterlimit: 22.93;
+                stroke-width: 6px;
+                stroke-dasharray: 30 18;
+                <!-- vector-effect: non-scaling-stroke; -->
+            }
+            .cls-3 {
+                fill-rule: evenodd;
+            }
+        </style>
+    </defs>
+    <g id="Слой_2" data-name="Слой 2">
+        <g id="верхняя_плашка" data-name="верхняя плашка">
+            <rect class="cls-1" x="32.04" width="186" height="199" />
+            <path class="cls-2" d="M86,291.79V111s1-1,1.61-1a7.85,7.85,0,0,0-1,0C374,113,660,112,947,117c0,0,1,1,.73,1.76" transform="translate(-82.96 -92)" />
+            <path class="cls-2" d="M272,136V309H86c0-.45,2.91,0,0,0a8.27,8.27,0,0,1,0-1.65" transform="translate(-82.96 -92)" />
+            <polygon
+                class="cls-3"
+                points="78.04 58 67.04 58 67.04 104 93.04 104 93.04 63 129.04 63 129.04 104 119.04 104 119.04 114 109.04 114 109.04 145 129.04 145 129.04 119 144.04 119 144.04 109 154.04 109 154.04 58 144.04 58 144.04 48 78.04 48 78.04 58"
+            />
+            <rect x="109.04" y="155" width="20" height="20" />
+        </g>
+    </g>
+</svg>

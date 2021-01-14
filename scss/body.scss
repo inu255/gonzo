@@ -1,0 +1,25 @@
+@import url('../fonts/fonts.css');
+
+.body {
+  font-family: 'OCRF-Regular';
+  font-size: 23.65pt;
+  line-height: 24.83pt;
+  background: white;
+
+  @media screen and (max-width: 420px) {
+    font-size: 20pt;
+  }
+
+  &__item {
+    padding-left: 13%;
+    padding-right: 13%;
+    @media screen and (max-width: 1030px) {
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+    @media screen and (max-width: 420px) {
+      padding-left: 3%;
+      padding-right: 3%;
+    }
+  }
+}
